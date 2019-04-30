@@ -1,0 +1,30 @@
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\bin\Debug\zadLab.exe.config
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\bin\Debug\zadLab.exe
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\bin\Debug\zadLab.pdb
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.Form1.resources
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.Properties.Resources.resources
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.exe
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.pdb
+C:\Users\Piotr\Desktop\windows forms\zadLab\zadLab\obj\Debug\zadLab.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\bin\Debug\zadLab.exe.config
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\bin\Debug\zadLab.exe
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\bin\Debug\zadLab.pdb
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.Form1.resources
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.csproj.GenerateResource.cache
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.exe
+C:\Users\Piotrek\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\windows forms\zadLab\zadLab\obj\Debug\zadLab.pdb
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\bin\Debug\zadLab.exe.config
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\bin\Debug\zadLab.exe
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\bin\Debug\zadLab.pdb
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.Form1.resources
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.csproj.GenerateResource.cache
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.exe
+C:\Users\Piotrek\Desktop\Memory for retard\zadLab\obj\Debug\zadLab.pdb
