@@ -1,0 +1,10 @@
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\bin\Debug\Picture Filter.exe.config
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\bin\Debug\Picture Filter.exe
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\bin\Debug\Picture Filter.pdb
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture Filter.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture_Filter.Form1.resources
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture_Filter.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture Filter.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture Filter.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture Filter.exe
+C:\Users\Piotr\Desktop\Picture Filter\Picture Filter\obj\Debug\Picture Filter.pdb
